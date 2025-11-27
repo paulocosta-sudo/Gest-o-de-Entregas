@@ -1,0 +1,7 @@
+{
+  "name": "Gestão de Entregas",
+  "description": "Aplicativo de roteirização de entregas com gerenciamento de frotas, motoristas e ajudantes, integrado com assistente de voz Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
